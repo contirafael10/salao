@@ -1,0 +1,13 @@
+2025/03/10-21:20:22.468 6907 Reusing MANIFEST /Users/conti/amelia-whatsapp-bot/tokens/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/10-21:20:22.468 6907 Recovering log #1027
+2025/03/10-21:20:22.475 6907 Reusing old log /Users/conti/amelia-whatsapp-bot/tokens/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001027.log 
+2025/03/10-21:20:22.475 6907 Delete type=2 #1025
+2025/03/10-21:20:22.475 6907 Delete type=2 #1028
+2025/03/10-21:20:22.519 a603 Level-0 table #1032: started
+2025/03/10-21:20:22.525 a603 Level-0 table #1032: 344484 bytes OK
+2025/03/10-21:20:22.527 a603 Delete type=0 #1027
+2025/03/10-21:20:22.528 6907 Manual compaction at level-0 from ' K\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' L\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/10-21:20:23.296 a603 Compacting 1@1 + 1@2 files
+2025/03/10-21:20:23.316 a603 Generated table #1033@1: 39292 keys, 1399997 bytes
+2025/03/10-21:20:23.316 a603 Compacted 1@1 + 1@2 files => 1399997 bytes
+2025/03/10-21:20:23.317 a603 compacted to: files[ 0 0 1 0 0 0 0 ]

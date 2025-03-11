@@ -1,0 +1,6 @@
+2025/03/08-20:33:23.349 2e03 Reusing MANIFEST /Users/conti/amelia-whatsapp-bot/tokens/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/08-20:33:23.352 2e03 Recovering log #151
+2025/03/08-20:33:23.352 2e03 Reusing old log /Users/conti/amelia-whatsapp-bot/tokens/session/Default/Local Storage/leveldb/000151.log 
+2025/03/08-20:59:01.053 3e07 Level-0 table #156: started
+2025/03/08-20:59:01.057 3e07 Level-0 table #156: 15787 bytes OK
+2025/03/08-20:59:01.058 3e07 Delete type=0 #151
